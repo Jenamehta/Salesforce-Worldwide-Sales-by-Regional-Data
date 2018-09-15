@@ -1,0 +1,12 @@
+Country,Country_code,Region,flag_img_url,Accounts,Value
+Australia,aus,South Pacific,https://c.na59.content.force.com/file-asset/flagaustraliapng,1898,22930651
+China,chn,East Asia,https://c.na59.content.force.com/file-asset/flagchinapng,2051,29754009
+Europe,eur,Europe,https://c.na59.content.force.com/file-asset/flageuropepng,4668,61238042
+France,fra,Europe,https://c.na59.content.force.com/file-asset/flagfrancepng,2303,28746829
+India,ind,Asia,https://c.na59.content.force.com/file-asset/flagindiapng,2721,32037499
+Italy,ita,Europe,https://c.na59.content.force.com/file-asset/flagitalypng,1722,26340986
+Japan,jpn,East Asia,https://c.na59.content.force.com/file-asset/flagjapanpng,2872,36916012
+Russian Federation,rus,East Europe,https://c.na59.content.force.com/file-asset/flagrussiapng,1847,27387456
+South Africa,zaf,Africa,https://c.na59.content.force.com/file-asset/flagsouthafricapng,879,9794857
+South Korea,kor,East Asia,https://c.na59.content.force.com/file-asset/flagsouthkoreapng,1643,21934785
+United States of America,usa,North America,https://c.na59.content.force.com/file-asset/flagusapng,6527,87044191
